@@ -1,8 +1,13 @@
 CACHE MANIFEST
-# zI/aITFHbnjeyWavWV+izHRwMW0=
+# oz2LUGte7xFN6GvmrkiDKMn1XDg=
 
 CACHE:
+.DS_Store
 css/app.css
+images/.DS_Store
+images/sprites/.DS_Store
+images/sprites/gohan.png
+images/sprites/gohan.xcf
 images/sprites.png
 index.html
 js/app.js
