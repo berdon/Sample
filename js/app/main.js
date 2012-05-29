@@ -1,0 +1,1 @@
+define(["require"],function(a){a(["Crafty","underscore"],function(){a(["app/scenes/loading","app/scenes/main","app/sprites","app/player"],function(){Crafty.init(),Crafty.canvas.init(),Crafty.scene("Scenes/Loading")})})})

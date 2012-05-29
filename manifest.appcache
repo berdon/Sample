@@ -1,16 +1,25 @@
 CACHE MANIFEST
-# oz2LUGte7xFN6GvmrkiDKMn1XDg=
+# 9iStK+XYkiwaVAjKLcW3JUUExQI=
 
 CACHE:
-.DS_Store
+build.txt
 css/app.css
-images/.DS_Store
-images/sprites/.DS_Store
 images/sprites/gohan.png
 images/sprites/gohan.xcf
 images/sprites.png
 index.html
+js/app/main.js
+js/app/player.js
+js/app/scenes/loading.js
+js/app/scenes/main.js
+js/app/sprites.js
 js/app.js
+js/lib/appCache.js
+js/lib/Crafty.js
+js/lib/game-shim.js
+js/lib/network.js
+js/lib/require.js
+js/lib/underscore.js
 manifest.webapp
 
 # catch-all for anything else
